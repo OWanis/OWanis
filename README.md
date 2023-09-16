@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OWanis
-- 👀 I’m interested in Game Development using Unity and C#.
-- 🌱 I’m currently learning C# in Unity.
+- I'm a VFX Artist & Producer. I learned to use basic coding for different VFX softwares.
+- 👀 I’m interested in Data Analysis and currently pushing to enter the field.
 - 📫 You can reach me on my email: omar.s.wanis@gmail.com
 
 <!---
